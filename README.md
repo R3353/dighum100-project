@@ -1,3 +1,10 @@
+Project completed for DigHum100 at UC Berkeley. All work belongs to AJ Grover, Priscilla Chen, Savannah Adamo, Stanley Chan, and Therese Mendoza.
+
+My contributions:
+- Website UI/UX via Wix (website link below)
+-  Inclusion and Accessibility page
+- Support on others' assigned tasks (Storyboard, Narrative, Annotated bibliography, Data critique, About page)
+
 # DH Final Project
 
 * Storyboard: Tuesday, 6/20 [Done](https://docs.google.com/document/d/1YYapWNhVqDrNk98qgr9ZMZFYIFKf4YrvVBi6ZvlsKB8/edit)
