@@ -1,4 +1,4 @@
-Project completed for DigHum100 at UC Berkeley. All work belongs to AJ Grover, Priscilla Chen, Savannah Adamo, Stanley Chan, and Therese Mendoza. **THIS REPOSITORY CLONE IS FOR PORTFOLIO AND PROFESSIONAL DEMONSTRATION PURPOSES ONLY.**
+Project completed for DigHum100 at UC Berkeley. **THIS REPOSITORY CLONE IS FOR PORTFOLIO AND PROFESSIONAL DEMONSTRATION PURPOSES ONLY.**
 
 ## My contributions:
 - Website UI/UX via Wix (website link below)
